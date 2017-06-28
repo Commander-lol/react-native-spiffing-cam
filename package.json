@@ -1,0 +1,20 @@
+{
+  "name": "react-native-spiffing-cam",
+  "version": "1.0.1-beta",
+  "description": "Writing camera modules is hard. Why not outsource it to people that know what they're doing?",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Louis Capitanchik <contact@louiscap.co>",
+  "license": "Apache-2.0",
+  "peerDependencies": {
+    "react": "^15.6.1",
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}
